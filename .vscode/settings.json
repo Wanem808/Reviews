@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onWindowChange",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.preferredHighContrastColorTheme": "Default Dark Modern",
+    "emmet.triggerExpansionOnTab": true
+}
